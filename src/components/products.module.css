@@ -1,0 +1,12 @@
+.page {
+    background: rgb(135, 159, 202, 0.3);
+    padding: 0.1rem 1.5rem;
+}
+
+.page h3 {
+    color: brown;
+}
+
+.text {
+    color: darkgreen;
+}
